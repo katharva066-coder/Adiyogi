@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+requests
+yfinance
+ta
+nsepy
+nsetools
